@@ -1,1 +1,9 @@
 Algoritmo-7
+1.Inicio
+2.Se pide que se ingrese el valor de costo por kilovatio/hora = 0,0926
+3.Se pide que se ingrese el número de kilovatios consumidos en el mes = 190.46
+4.Se realiza la operación de multiplicar el valor del costo por kilovatio/hora y el número de kilovatios consumidos en el mes y luego se resta el 10% 
+       = 0,0926 * 190.46 - 10%
+5.Se presenta en pantalla el resultado de la suma
+      =15.87
+6.Fin

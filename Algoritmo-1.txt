@@ -1,1 +1,9 @@
 Algoritmo-1.txt
+Inicio
+1. Se pide la altura del triángulo.
+2. Se pide la base del triángulo.
+3. Se calcula el área del triángulo multiplicando la base por la altura y dividirlo para dos.
+4. Se pide el costo del triángulo.
+5.Se calcula el costo total del triángulo multiplicando el área_triangulo por el costo del triángulo.
+6. Se muestra el costo total del triangulo.
+7.Fin 

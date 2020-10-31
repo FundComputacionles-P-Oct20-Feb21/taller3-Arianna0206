@@ -1,1 +1,10 @@
 Algoritmo-2
+1. Inicio
+2.Se pide que se ingrese el primer número = 500
+3.Se pide que se ingrese el segundo número = 500
+4.Se pide que se ingrese el tercer número = 500
+5.Se realiza la operación de sumar los números ingresados.
+  500+500+500
+6.Se presenta en pantalla el resultado de la suma
+    1500 gasta en total
+7.Fin

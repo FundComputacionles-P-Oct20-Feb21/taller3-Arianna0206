@@ -1,1 +1,11 @@
 Algoritmo-8
+1.Inicio
+2.Se pide que se ingrese el primer valor a pagar mensualmente NETFLIX = 12
+3.Se pide que se ingrese el segundo valor a pagar de YOUTUBE PREMIUM = 12
+4.Se pide que se ingrese el tercer valor a pagar de DROPBOX = 25
+5.Se pide que se ingrese el cuarto valor a pagar de SPOTIFY = 8
+6.Se realiza la operación de sumar los números ingresados y se resta el 20%
+                12+12+25+8-20%
+7.Se presenta en pantalla el resultado de la suma 
+                 =51.3
+8.Fin

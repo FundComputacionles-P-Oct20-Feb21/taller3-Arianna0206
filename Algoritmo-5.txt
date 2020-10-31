@@ -1,1 +1,9 @@
 Algoritmo-5 
+1.Inicio
+2.Se pide que se ingrese el primer valor del CPU
+3.Se pide que se ingrese el segundo valor del teclado
+4.Se pide que se ingrese el tercer valor de la pantalla
+5.Se pide que se ingrese el cuarto valor del ratón 
+6.Se realiza la operación de sumar los números ingresados
+7.Se presenta en pantalla el resultado de la suma 
+8.Fin

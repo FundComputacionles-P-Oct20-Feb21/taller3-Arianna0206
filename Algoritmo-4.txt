@@ -1,0 +1,7 @@
+
+1.Inicio
+2.Se pide ingresar el número de minutos consumidos en el mes
+3.Se pide el costo por minutos
+4.Se calcula el costo total de cada minutos consumidos al mes 
+5.Se muestra el costo total de la planilla del teléfono 
+6.Fin

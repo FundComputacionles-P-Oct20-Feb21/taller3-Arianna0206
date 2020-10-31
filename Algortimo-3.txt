@@ -1,1 +1,9 @@
 Algoritmo-3
+1.Inicio
+2.Se pide que se ingrese el primer número = 3
+3.Se pide que se ingrese el segundo número = 5
+4.Se realiza la operación de multiplicar los números ingresados
+    3*5
+5.Se presenta en pantalla el resultado de la suma
+    total=15
+6.Fin

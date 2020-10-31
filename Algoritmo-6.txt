@@ -1,2 +1,8 @@
 Algoritmo-6
-Algoritmo-7
+1.Inicio
+2.Se pide que se ingrese el monto del préstamo = 1500
+3.Se pide que se ingrese el interés mensual a cobrar =12.5%
+4.Se realiza operación de multiplicar el monto del préstamo, el interés y los 12 meses que consta del año. 1500 * 12.5% * 12 
+5.Se presenta en pantalla el resultado de la multiplicación 
+     2250
+6.Fin
